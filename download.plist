@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://yourwebsite.com/ipa/app.ipa</string>
+                    <string>http://181.254.210.84:9020/Data/Android/rtmpSay.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.aruistar.cmcapp</string>
+                <string>com.xwj.fanshan</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>cmcapp</string>
+                <string>rmtpSay</string>
             </dict>
         </dict>
     </array>
